@@ -13,4 +13,8 @@ mongodb:user:todo, pass:1234
 - git init
 - git commit -m "Initial commit"
 - git add *
-- 
+  
+
+  ## lession 10
+  - tsc --init
+  - 
